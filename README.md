@@ -5,6 +5,7 @@ Data analysis of a fictional dataset about new sales method of a company
 Data set available on kaggle: https://www.kaggle.com/datasets/lorenzovzquez/pens-and-printers-product-sales
 
 Analysis performed using Jupyter Notebook (Python) with description and full report contained in the notebook.
+Additional visual analysis provided in PowerBI.
 
 # Summary
 
