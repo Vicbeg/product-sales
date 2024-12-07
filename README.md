@@ -6,6 +6,7 @@ Data set available on kaggle: https://www.kaggle.com/datasets/lorenzovzquez/pens
 
 Analysis performed using Jupyter Notebook (Python) with description and full report contained in the notebook.
 Additional visual analysis provided in PowerBI.
+I also included a PowerPoint presentation summarising this work.
 
 # Summary
 
